@@ -5,7 +5,7 @@ A collection of notes I have taken during my classes.
 
 
 | Class     | Link
-| ------------ | ------------------------- | -------- |
+| ------------ | -------------------------
 | [HW 01](/HW%2001) | Git, Make, and GCC
 | [HW 02](/HW%2002) | Who Gets the Cake
 | [HW 03](/HW%2003) | Structs
